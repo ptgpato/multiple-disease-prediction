@@ -1,0 +1,17 @@
+# --- Streamlit Web App ---
+streamlit==1.39.0
+streamlit-option-menu==0.4.0
+
+# --- Core Data Science Libraries ---
+numpy==2.1.2
+pandas==2.2.3
+scikit-learn==1.5.1
+scipy==1.13.1
+joblib==1.4.2
+
+# --- Visualization (optional) ---
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# --- Misc / Compatibility ---
+protobuf==3.20.3
